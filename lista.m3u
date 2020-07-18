@@ -31,8 +31,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/1985
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1951
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1950
-#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/2435
 #EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Globo Internacional" tvg-logo="http://printv.esy.es/server/Globo%20Internacional.png" group-title="Canais Globo",Globo Internacional
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1963
 #EXTINF:-1 tvg-id="" tvg-name="Globo Now" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now
@@ -69,14 +67,8 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/2211
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1324
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT Alternativo" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT Alternativo
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1218
-#EXTINF:-1 tvg-id="SBT SP Interior" tvg-name="SBT SP Interior" tvg-logo="http://printv.esy.es/server/SBT%20Interior.png" group-title="Canais Abertos",SBT SP Interior
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/2213
-#EXTINF:-1 tvg-id="SBT TV Aratu Bahia" tvg-name="SBT TV Aratu BA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT TV Aratu BA
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/20980
 #EXTINF:-1 tvg-id="SBT TV Serra Dourada" tvg-name="SBT TV Serra Dourada GO " tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT TV Serra Dourada GO 
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/20984
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV Tribuna ES " tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT TV Tribuna ES 
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/27022
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP FHD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP FHD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1878
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP HD
@@ -87,12 +79,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/2055
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1268
 #EXTINF:-1 tvg-id="Band" tvg-name="Band TV Alternativo" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band TV Alternativo
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1179
-#EXTINF:-1 tvg-id="Band" tvg-name="Band Campinas " tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band Campinas 
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/20625
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio de Janeiro " tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band Rio de Janeiro 
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/27024
-#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe " tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band Sergipe 
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/27023
 #EXTINF:-1 tvg-id="Band" tvg-name="Band TV Goiania " tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band TV Goiania 
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/20985
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV FHD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV FHD
@@ -449,6 +435,8 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/13100
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/13101
 #EXTINF:-1 tvg-id="" tvg-name="Fórmula 1  " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-1.png" group-title="Esportes PPV",Fórmula 1  
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/25710
+#EXTINF:-1 tvg-id="" tvg-name="Rai Itália " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="Esportes PPV",Rai Itália 
+http://dns.clientetv.xyz:8080/cliente6430/iptv07/28083
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FHD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes FHD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1898
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes HD
@@ -745,8 +733,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/24778
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2335
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN LEG" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="Filmes e Series (LEG)",AXN LEG
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2336
-#EXTINF:-1 tvg-id="" tvg-name="Ação 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/acao.png" group-title="Cine 24Hs",Ação 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11622
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News H265" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Canais H265",Band News H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6580
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports H265" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Canais H265",Band Sports H265
@@ -773,10 +759,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/6584
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2074
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate H265" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais H265",Combate H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6585
-#EXTINF:-1 tvg-id="" tvg-name="Comédia 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/comedia.png" group-title="Cine 24Hs",Comédia 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11625
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 24Hs" tvg-logo="" group-title="Cine 24Hs",DC Comics 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11717
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovert Turbo H265" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais H265",Discovert Turbo H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6539
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel H265" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais H265",Discovery Channel H265
@@ -797,8 +779,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/6540
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6589
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr H265" tvg-logo="http://printv.esy.es/server/Disney%20J%C3%BAnior%20HD.png" group-title="Canais H265",Disney Jr H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6590
-#EXTINF:-1 tvg-id="" tvg-name="Drama 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/drama.png" group-title="Cine 24Hs",Drama 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11626
 #EXTINF:-1 tvg-id="E!" tvg-name="E! H265" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais H265",E! H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6591
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 H265" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Canais H265",ESPN 2 H265
@@ -809,12 +789,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/6541
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6542
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN H265" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Canais H265",ESPN H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6592
-#EXTINF:-1 tvg-id="" tvg-name="Fantasia 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/fantasia.png" group-title="Cine 24Hs",Fantasia 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11627
-#EXTINF:-1 tvg-id="" tvg-name="Faroeste 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/faroeste.png" group-title="Cine 24Hs",Faroeste 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11651
-#EXTINF:-1 tvg-id="" tvg-name="Ficção 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/ficcao.png" group-title="Cine 24Hs",Ficção 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11628
 #EXTINF:-1 tvg-id="" tvg-name="Film & Art Alternativo" tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="Filmes & Series",Film & Art Alternativo
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1194
 #EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="Filmes & Series",Film & Arts
@@ -973,8 +947,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/6568
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6553
 #EXTINF:-1 tvg-id="Record SP" tvg-name="Record H265" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Canais H265",Record H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6610
-#EXTINF:-1 tvg-id="" tvg-name="Religiosos 24Hs" tvg-logo="" group-title="Cine 24Hs",Religiosos 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/11679
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT H265" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais H265",SBT H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6569
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel
@@ -1007,16 +979,14 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/2217
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2363
 #EXTINF:-1 tvg-id="Space" tvg-name="Space LEG" tvg-logo="http://printv.esy.es/server/Space.png" group-title="Filmes e Series (LEG)",Space LEG
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2364
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sport TV 2 H265" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Canais H265",Sport TV 2 H265
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 H265" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Canais H265",SporTV 2 H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6602
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sport TV 3 H265" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Canais H265",Sport TV 3 H265
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 H265" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Canais H265",SporTV 3 H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6603
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV H265" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Canais H265",SporTV H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6570
 #EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Shoptime H265" tvg-logo="http://printv.esy.es/server/Shoptime.png" group-title="Canais H265",Shoptime H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/24782
-#EXTINF:-1 tvg-id="" tvg-name="Suspense 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/suspense.png" group-title="Cine 24Hs",Suspense 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/12313
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2223
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS Alternativo" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo
@@ -1061,8 +1031,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/6572
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2353
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Filmes e Series (LEG)",Telecine Touch LEG
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2354
-#EXTINF:-1 tvg-id="" tvg-name="Terror 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/terror.png" group-title="Cine 24Hs",Terror 24Hs
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/12319
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC H265" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais H265",TLC H265
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/6614
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="Filmes & Series",TNT
@@ -1389,9 +1357,9 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/1297
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1206
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva FHD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1906
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva HD
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva HD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2263
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades & Musicas",Viva
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades & Musicas",Viva
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2262
 #EXTINF:-1 tvg-id="" tvg-name="Viva Alternativo HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva Alternativo HD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1306
