@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Live ao Vivo" tvg-logo="https://s3-sa-east-1.amazonaws.com/casafy.static/site/v1.1/fiqueemcasa_white.png" group-title="Canais Globo",Live ao Vivo
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/24203
 #EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ FHD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1943
 #EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ HD
@@ -19,6 +17,8 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/1949
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1948
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1947
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP 4K" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP 4K
+http://dns.clientetv.xyz:8080/cliente6430/iptv07/29080
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FHD²" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP FHD²
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/24774
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo HD
@@ -31,6 +31,8 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/1985
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1951
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1950
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal
+http://dns.clientetv.xyz:8080/cliente6430/iptv07/2435
 #EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Globo Internacional" tvg-logo="http://printv.esy.es/server/Globo%20Internacional.png" group-title="Canais Globo",Globo Internacional
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1963
 #EXTINF:-1 tvg-id="" tvg-name="Globo Now" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now
@@ -79,6 +81,8 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/2055
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1268
 #EXTINF:-1 tvg-id="Band" tvg-name="Band TV Alternativo" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band TV Alternativo
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1179
+#EXTINF:-1 tvg-id="Band" tvg-name="Band Campinas " tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band Campinas 
+http://dns.clientetv.xyz:8080/cliente6430/iptv07/20625
 #EXTINF:-1 tvg-id="Band" tvg-name="Band TV Goiania " tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band TV Goiania 
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/20985
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV FHD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV FHD
@@ -95,12 +99,6 @@ http://dns.clientetv.xyz:8080/cliente6430/iptv07/1168
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/2207
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil Alternativo" tvg-logo="http://printv.esy.es/server/Rede%20Brasil.png" group-title="Canais Abertos",Rede Brasil Alternativo
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1167
-#EXTINF:-1 tvg-id="" tvg-name="Tv Diario Fortaleza FHD" tvg-logo="http://printv.esy.es/server/TV%20Di%C3%A1rio.png" group-title="Canais Abertos",Tv Diario Fortaleza FHD
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/1914
-#EXTINF:-1 tvg-id="" tvg-name="TV Diario Fortaleza HD" tvg-logo="http://printv.esy.es/server/TV%20Di%C3%A1rio.png" group-title="Canais Abertos",TV Diario Fortaleza HD
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/2287
-#EXTINF:-1 tvg-id="" tvg-name="TV Diario Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Di%C3%A1rio.png" group-title="Canais Abertos",TV Diario Fortaleza
-http://dns.clientetv.xyz:8080/cliente6430/iptv07/2288
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="Tv Cultura FHD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",Tv Cultura FHD
 http://dns.clientetv.xyz:8080/cliente6430/iptv07/1909
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura HD
