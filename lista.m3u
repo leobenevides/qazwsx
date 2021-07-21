@@ -59,10 +59,6 @@ http://pfsv.io:80/334979935/96795/326
 http://pfsv.io:80/334979935/96795/210
 #EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | 4K",AXN [4K]
 http://pfsv.io:80/334979935/96795/50863
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",Band Campinas HD
-http://pfsv.io:80/334979935/96795/50876
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",BAND Campinas SD
-http://pfsv.io:80/334979935/96795/32537
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",BAND FHD [H265]
 http://pfsv.io:80/334979935/96795/30181
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Notícias",Band Internacional
@@ -73,16 +69,10 @@ http://pfsv.io:80/334979935/96795/510
 http://pfsv.io:80/334979935/96795/30195
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Notícias",Band News HD
 http://pfsv.io:80/334979935/96795/514
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Notícias",Band News SD
-http://pfsv.io:80/334979935/96795/520
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",BAND Nordeste SD
-http://pfsv.io:80/334979935/96795/32538
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",Band SP FHD
 http://pfsv.io:80/334979935/96795/44
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",Band SP HD
 http://pfsv.io:80/334979935/96795/50
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | Abertos",Band SP SD
-http://pfsv.io:80/334979935/96795/65
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title="Canais | 4K",Band SP [4K]
 http://pfsv.io:80/334979935/96795/580
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/band.png" group-title=" Canais | Esportes",Band Sport FHD
@@ -101,6 +91,14 @@ http://pfsv.io:80/334979935/96795/5
 http://pfsv.io:80/334979935/96795/18
 #EXTINF:-1 tvg-logo="http://z4.vc/XaE" group-title="Art & Music",BIS SD
 http://pfsv.io:80/334979935/96795/12
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/334979935/96795/35086
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/334979935/96795/35087
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 03
+http://pfsv.io:80/334979935/96795/35088
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 04
+http://pfsv.io:80/334979935/96795/35089
 #EXTINF:-1 tvg-logo="http://z4.vc/bUk" group-title="Canais | Filmes e Séries",Canal Brasil FHD
 http://pfsv.io:80/334979935/96795/298
 #EXTINF:-1 tvg-logo="http://z4.vc/bUk" group-title="Canais | Filmes e Séries",Canal Brasil FHD[H265]
@@ -121,8 +119,16 @@ http://pfsv.io:80/334979935/96795/274
 http://pfsv.io:80/334979935/96795/302
 #EXTINF:-1 tvg-logo="http://z4.vc/FM8" group-title="Canais | Filmes e Séries",Sony Channel SD
 http://pfsv.io:80/334979935/96795/327
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova FHD
+http://pfsv.io:80/334979935/96795/49112
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova HD
+http://pfsv.io:80/334979935/96795/33379
 #EXTINF:-1 tvg-logo="http://p6.vc/f0h" group-title="Canais | 4K",Cartoon Network [4K]
 http://pfsv.io:80/334979935/96795/591
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Catarinense 01
+http://pfsv.io:80/334979935/96795/502
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Catarinense 02
+http://pfsv.io:80/334979935/96795/503
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Chef TV HD
 http://pfsv.io:80/334979935/96795/32543
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine Action HD
@@ -251,10 +257,30 @@ http://pfsv.io:80/334979935/96795/115
 http://pfsv.io:80/334979935/96795/50868
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | 4K",Conmebol [4K]
 http://pfsv.io:80/334979935/96795/49110
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 01
+http://pfsv.io:80/334979935/96795/35085
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 01[ALTER]
+http://pfsv.io:80/334979935/96795/35070
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 02 [ALTER2]
+http://pfsv.io:80/334979935/96795/35090
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 02[ALTER]
+http://pfsv.io:80/334979935/96795/35071
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 03 [ALTER2]
+http://pfsv.io:80/334979935/96795/35091
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 03[ALTER]
+http://pfsv.io:80/334979935/96795/35072
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 04 [ALTER2]
+http://pfsv.io:80/334979935/96795/35092
 #EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 04[ALTER]
 http://pfsv.io:80/334979935/96795/35073
 #EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Libertadores HD
 http://pfsv.io:80/334979935/96795/490
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 1
+http://pfsv.io:80/334979935/96795/492
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 2
+http://pfsv.io:80/334979935/96795/493
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 3
+http://pfsv.io:80/334979935/96795/494
 #EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! FHD
 http://pfsv.io:80/334979935/96795/98
 #EXTINF:-1 tvg-logo="http://p6.vc/f0v" group-title="Canais | Variedades",Curta! FHD [H265]
@@ -431,6 +457,8 @@ http://pfsv.io:80/334979935/96795/30185
 http://pfsv.io:80/334979935/96795/109
 #EXTINF:-1 tvg-logo="http://p6.vc/fZ1" group-title="Canais | Variedades",Fish Tv SD
 http://pfsv.io:80/334979935/96795/118
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FLA TV
+http://pfsv.io:80/334979935/96795/33404
 #EXTINF:-1 tvg-logo="http://p6.vc/fZY" group-title="Canais | Variedades",Food Network FHD
 http://pfsv.io:80/334979935/96795/101
 #EXTINF:-1 tvg-logo="http://p6.vc/fZY" group-title="Canais | Variedades",Food Network FHD [H265]
@@ -499,6 +527,8 @@ http://pfsv.io:80/334979935/96795/271
 http://pfsv.io:80/334979935/96795/586
 #EXTINF:-1 tvg-logo="http://z4.vc/yeh" group-title="Canais | 4K",STAR CHANNEL [4K]
 http://pfsv.io:80/334979935/96795/5346
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Furacao Play TV
+http://pfsv.io:80/334979935/96795/49109
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Futura  FHD[H265]
 http://pfsv.io:80/334979935/96795/30182
 #EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura FHD
@@ -523,8 +553,20 @@ http://pfsv.io:80/334979935/96795/232
 http://pfsv.io:80/334979935/96795/600
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Anhanguera Goiania SD
 http://pfsv.io:80/334979935/96795/32427
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Brasilia FHD
+http://pfsv.io:80/334979935/96795/360
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Brasilia HD
+http://pfsv.io:80/334979935/96795/385
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Brasilia SD
+http://pfsv.io:80/334979935/96795/420
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title="Canais | Jogos & Eventos",Globo Esporte
 http://pfsv.io:80/334979935/96795/491
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Goiania FHD
+http://pfsv.io:80/334979935/96795/43850
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Goiania HD
+http://pfsv.io:80/334979935/96795/43820
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo Goias SD
+http://pfsv.io:80/334979935/96795/43819
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title="Canais | Notícias",Globo Internacional
 http://pfsv.io:80/334979935/96795/519
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title="Canais | Notícias",Globo News FHD
@@ -871,48 +913,14 @@ http://pfsv.io:80/334979935/96795/511
 http://pfsv.io:80/334979935/96795/515
 #EXTINF:-1 tvg-logo="http://p6.vc/fZ3" group-title="Canais | Notícias",Record News SD
 http://pfsv.io:80/334979935/96795/521
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV BA HD
-http://pfsv.io:80/334979935/96795/61
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV BA SD
-http://pfsv.io:80/334979935/96795/78
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV BELEM HD
-http://pfsv.io:80/334979935/96795/62
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV Belem SD
-http://pfsv.io:80/334979935/96795/84
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV Campinas HD
-http://pfsv.io:80/334979935/96795/32542
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV Campinas SD
-http://pfsv.io:80/334979935/96795/32540
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV DF HD
-http://pfsv.io:80/334979935/96795/60
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV DF SD
-http://pfsv.io:80/334979935/96795/79
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV Espirito Santo SD
-http://pfsv.io:80/334979935/96795/32541
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV GO HD
 http://pfsv.io:80/334979935/96795/63
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV GO SD
 http://pfsv.io:80/334979935/96795/85
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTv SP FHD [H265]
 http://pfsv.io:80/334979935/96795/30178
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV MG HD
-http://pfsv.io:80/334979935/96795/58
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV MG SD
-http://pfsv.io:80/334979935/96795/77
 #EXTINF:-1 tvg-logo="http://p6.vc/fZ3" group-title="Canais | Notícias",Record News FHD [H265]
 http://pfsv.io:80/334979935/96795/30197
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV RJ FHD
-http://pfsv.io:80/334979935/96795/50880
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV RJ HD
-http://pfsv.io:80/334979935/96795/57
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV RJ SD
-http://pfsv.io:80/334979935/96795/76
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV RS HD
-http://pfsv.io:80/334979935/96795/59
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV RS SD
-http://pfsv.io:80/334979935/96795/80
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTv Sergipe (Atalaia) HD
-http://pfsv.io:80/334979935/96795/47374
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV SP FHD
 http://pfsv.io:80/334979935/96795/45
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV SP HD
@@ -925,10 +933,14 @@ http://pfsv.io:80/334979935/96795/583
 http://pfsv.io:80/334979935/96795/53
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV SP2 SD
 http://pfsv.io:80/334979935/96795/68
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/recordtv.png" group-title="Canais | Abertos",RecordTV Vitoria SD
-http://pfsv.io:80/334979935/96795/34014
 #EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
 http://pfsv.io:80/334979935/96795/87
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Rede Vida FHD
+http://pfsv.io:80/334979935/96795/545
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Vida FHD [H265]
+http://pfsv.io:80/334979935/96795/30296
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Rede Vida HD
+http://pfsv.io:80/334979935/96795/547
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/redetv.png" group-title="Canais | 4K",RedeTV News [4K]
 http://pfsv.io:80/334979935/96795/598
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
@@ -1195,6 +1207,8 @@ http://pfsv.io:80/334979935/96795/64
 http://pfsv.io:80/334979935/96795/90
 #EXTINF:-1 tvg-logo="http://z4.vc/AME" group-title="Canais | Abertos",TV Escola SD
 http://pfsv.io:80/334979935/96795/75
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV FLA
+http://pfsv.io:80/334979935/96795/33378
 #EXTINF:-1 tvg-logo="http://p6.vc/f0n" group-title="Canais | Variedades",Tv Gazeta SP FHD [H265]
 http://pfsv.io:80/334979935/96795/30189
 #EXTINF:-1 tvg-logo="http://z4.vc/ARG" group-title="Canais | Variedades",TV Gazeta SP FHD
@@ -1261,76 +1275,12 @@ http://pfsv.io:80/334979935/96795/133
 http://pfsv.io:80/334979935/96795/14
 #EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Art & Music",WOOHOO SD
 http://pfsv.io:80/334979935/96795/7
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
-http://pfsv.io:80/334979935/96795/43931
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Grande Familia
-http://pfsv.io:80/334979935/96795/43932
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A historia de Deus com Morgan Freeman 1 TEMP
-http://pfsv.io:80/334979935/96795/43973
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A historia de Deus com Morgan Freeman 2 TEMP
-http://pfsv.io:80/334979935/96795/43974
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Mumia
-http://pfsv.io:80/334979935/96795/43942
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Pantera Cor De Rosa
 http://pfsv.io:80/334979935/96795/43950
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Turma Da Monica
-http://pfsv.io:80/334979935/96795/43964
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Turma Do Pateta
-http://pfsv.io:80/334979935/96795/43943
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Aladdin
 http://pfsv.io:80/334979935/96795/43857
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 3 TEMP
-http://pfsv.io:80/334979935/96795/43976
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 5 TEMP
-http://pfsv.io:80/334979935/96795/43978
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 6 TEMP
-http://pfsv.io:80/334979935/96795/43979
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 7 TEMP
-http://pfsv.io:80/334979935/96795/43980
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras De Jackie Chan
-http://pfsv.io:80/334979935/96795/43884
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras De Piggley Winks
-http://pfsv.io:80/334979935/96795/43945
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Meninas Superpoderosas
-http://pfsv.io:80/334979935/96795/43858
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninja 
 http://pfsv.io:80/334979935/96795/43918
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Telefonistas 1 TEMP
-http://pfsv.io:80/334979935/96795/43982
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Telefonistas 2 TEMP
-http://pfsv.io:80/334979935/96795/43983
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Telefonistas 3 TEMP
-http://pfsv.io:80/334979935/96795/43984
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Baby Shark
-http://pfsv.io:80/334979935/96795/43961
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 1 TEMP
-http://pfsv.io:80/334979935/96795/43986
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 2 TEMP
-http://pfsv.io:80/334979935/96795/43987
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 3 TEMP
-http://pfsv.io:80/334979935/96795/43988
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 4 TEMP
-http://pfsv.io:80/334979935/96795/43989
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 5 TEMP
-http://pfsv.io:80/334979935/96795/43990
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] BEN 10
-http://pfsv.io:80/334979935/96795/43859
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Ben E Holly
-http://pfsv.io:80/334979935/96795/43969
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Black Lightning
-http://pfsv.io:80/334979935/96795/43991
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] BOB ESPONJA
-http://pfsv.io:80/334979935/96795/43860
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bob Zoom
-http://pfsv.io:80/334979935/96795/43992
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Breaking Bad
-http://pfsv.io:80/334979935/96795/43861
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Capitão Tsubasa
-http://pfsv.io:80/334979935/96795/43954
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Carcereiros
-http://pfsv.io:80/334979935/96795/43996
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Cascão Maratona
-http://pfsv.io:80/334979935/96795/43997
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Cavalo de Fogo
 http://pfsv.io:80/334979935/96795/43998
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
@@ -1339,78 +1289,18 @@ http://pfsv.io:80/334979935/96795/43863
 http://pfsv.io:80/334979935/96795/43864
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] CHAVES
 http://pfsv.io:80/334979935/96795/43865
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] CHAVES DESENHO
-http://pfsv.io:80/334979935/96795/43866
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chicago Med 1 TEMP
-http://pfsv.io:80/334979935/96795/43999
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chicago Med 2 TEMP
-http://pfsv.io:80/334979935/96795/44000
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Coragem o Cao Covarde
-http://pfsv.io:80/334979935/96795/43862
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] CSI Las Vegas
-http://pfsv.io:80/334979935/96795/43948
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Daniel Tigre
-http://pfsv.io:80/334979935/96795/43970
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Demolidor 1 TEMP
-http://pfsv.io:80/334979935/96795/44005
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Demolidor 2 TEMP
-http://pfsv.io:80/334979935/96795/44006
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Denis o Pimentinha
 http://pfsv.io:80/334979935/96795/43867
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
-http://pfsv.io:80/334979935/96795/43971
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Desenhos Disney
-http://pfsv.io:80/334979935/96795/43868
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mickey e Donald
 http://pfsv.io:80/334979935/96795/44008
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Digimon
-http://pfsv.io:80/334979935/96795/43869
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 1 TEMP
-http://pfsv.io:80/334979935/96795/44011
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 2 TEMP
-http://pfsv.io:80/334979935/96795/44012
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 3 TEMP
-http://pfsv.io:80/334979935/96795/44013
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 4 TEMP
-http://pfsv.io:80/334979935/96795/44014
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 5 TEMP
-http://pfsv.io:80/334979935/96795/44015
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 6 TEMP
-http://pfsv.io:80/334979935/96795/44016
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 7 TEMP
-http://pfsv.io:80/334979935/96795/44017
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 8 TEMP
-http://pfsv.io:80/334979935/96795/44018
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
-http://pfsv.io:80/334979935/96795/43870
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doug
-http://pfsv.io:80/334979935/96795/43871
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL
 http://pfsv.io:80/334979935/96795/43872
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dragon Ball Super
 http://pfsv.io:80/334979935/96795/43951
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL Z
 http://pfsv.io:80/334979935/96795/43873
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas
-http://pfsv.io:80/334979935/96795/43939
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Faisca E Fumaça
-http://pfsv.io:80/334979935/96795/43963
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Flash Gordon
-http://pfsv.io:80/334979935/96795/43957
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Formiga Atómica
-http://pfsv.io:80/334979935/96795/43874
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Galinha Pintadinha
-http://pfsv.io:80/334979935/96795/43875
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Classicos Disney
-http://pfsv.io:80/334979935/96795/44129
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Guardiões da Galaxia
-http://pfsv.io:80/334979935/96795/43876
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] He-Man
 http://pfsv.io:80/334979935/96795/43877
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] High Score Girl
-http://pfsv.io:80/334979935/96795/43956
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Historias Disney
-http://pfsv.io:80/334979935/96795/43879
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Homem Aranha
 http://pfsv.io:80/334979935/96795/43880
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Homem de Ferro
@@ -1427,52 +1317,20 @@ http://pfsv.io:80/334979935/96795/43883
 http://pfsv.io:80/334979935/96795/43885
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] JIRAYA O Incrível Ninja
 http://pfsv.io:80/334979935/96795/43886
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jonny Quest
-http://pfsv.io:80/334979935/96795/43937
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jose Rei Do Egito
-http://pfsv.io:80/334979935/96795/43934
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Kenan e Kel
-http://pfsv.io:80/334979935/96795/43887
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Futurama
-http://pfsv.io:80/334979935/96795/44131
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Log Horizon
-http://pfsv.io:80/334979935/96795/43965
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Luluzinha
-http://pfsv.io:80/334979935/96795/43888
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Masha e o Urso
-http://pfsv.io:80/334979935/96795/44056
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Medabots
-http://pfsv.io:80/334979935/96795/43889
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] MegaMan
-http://pfsv.io:80/334979935/96795/43890
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Meu Amigoozao
-http://pfsv.io:80/334979935/96795/43972
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mickey Mouse
 http://pfsv.io:80/334979935/96795/43953
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mortal Kombat
 http://pfsv.io:80/334979935/96795/43891
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mr.Ben
 http://pfsv.io:80/334979935/96795/43892
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mundo Bita
-http://pfsv.io:80/334979935/96795/43959
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Naruto
-http://pfsv.io:80/334979935/96795/43893
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Naruto Shippuden DUB
-http://pfsv.io:80/334979935/96795/43894
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Fantástico Mundo de Bobby
-http://pfsv.io:80/334979935/96795/43895
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O INSPETOR
 http://pfsv.io:80/334979935/96795/43896
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Maskara
 http://pfsv.io:80/334979935/96795/43935
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rugrats Os Anjinhos
-http://pfsv.io:80/334979935/96795/43898
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco 
 http://pfsv.io:80/334979935/96795/43899
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] OS FLINTSTONES
 http://pfsv.io:80/334979935/96795/43900
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Padrinhos Mágicos
-http://pfsv.io:80/334979935/96795/43968
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Simpsons
 http://pfsv.io:80/334979935/96795/43901
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Trapalhoes
@@ -1481,66 +1339,30 @@ http://pfsv.io:80/334979935/96795/43949
 http://pfsv.io:80/334979935/96795/43902
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Papa-Leguas
 http://pfsv.io:80/334979935/96795/43903
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Patati Patata
-http://pfsv.io:80/334979935/96795/43960
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Patrulha Canina
-http://pfsv.io:80/334979935/96795/43938
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Peppa Pig
-http://pfsv.io:80/334979935/96795/43904
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] PERNALONGA
 http://pfsv.io:80/334979935/96795/43905
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Phineas e Ferb
-http://pfsv.io:80/334979935/96795/43906
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica Pau
 http://pfsv.io:80/334979935/96795/43907
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica Pau Classico
 http://pfsv.io:80/334979935/96795/44150
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pink-e-Cerebro
-http://pfsv.io:80/334979935/96795/43908
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] POKEMON
-http://pfsv.io:80/334979935/96795/43909
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Popeye O Marinheiro
 http://pfsv.io:80/334979935/96795/43910
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rambo
 http://pfsv.io:80/334979935/96795/43911
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Retro Cartoon
-http://pfsv.io:80/334979935/96795/44149
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rick And Morty
-http://pfsv.io:80/334979935/96795/43955
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rick And Morty 2TEMP
-http://pfsv.io:80/334979935/96795/43966
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Scooby-Doo
 http://pfsv.io:80/334979935/96795/43912
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Sitio Do Pica Pau Amarelo
-http://pfsv.io:80/334979935/96795/43947
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Smallville
-http://pfsv.io:80/334979935/96795/43913
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Sobrenatural
 http://pfsv.io:80/334979935/96795/43914
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] South Park
-http://pfsv.io:80/334979935/96795/43915
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Steven Universe
-http://pfsv.io:80/334979935/96795/43916
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Superman
 http://pfsv.io:80/334979935/96795/43917
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] The Big Bang Theory
-http://pfsv.io:80/334979935/96795/44082
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Thundercats
 http://pfsv.io:80/334979935/96795/43919
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] TIMAO E PUMBA
-http://pfsv.io:80/334979935/96795/43920
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] TODO MUNDO ODEIA O CHRIS
 http://pfsv.io:80/334979935/96795/43921
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tom & Jerry
 http://pfsv.io:80/334979935/96795/43922
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Icarly
-http://pfsv.io:80/334979935/96795/44138
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tres Espias Demais
-http://pfsv.io:80/334979935/96795/43923
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaço
 http://pfsv.io:80/334979935/96795/43924
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Uma Família da Pesada
-http://pfsv.io:80/334979935/96795/43925
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Ursinhos Carinhos
 http://pfsv.io:80/334979935/96795/43926
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] X-MAN
@@ -1549,28 +1371,6 @@ http://pfsv.io:80/334979935/96795/44151
 http://pfsv.io:80/334979935/96795/43927
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] X-Men Antigo
 http://pfsv.io:80/334979935/96795/43952
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Xena
-http://pfsv.io:80/334979935/96795/43928
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] YU-GI-OH
-http://pfsv.io:80/334979935/96795/43929
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] YU-YU-Hakusho
-http://pfsv.io:80/334979935/96795/43930
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Black Jesus
-http://pfsv.io:80/334979935/96795/44147
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Eric Andre Show
-http://pfsv.io:80/334979935/96795/44146
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Mr. Pickles
-http://pfsv.io:80/334979935/96795/44145
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Rick and Morty
-http://pfsv.io:80/334979935/96795/44144
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Squidbillies
-http://pfsv.io:80/334979935/96795/44143
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Tim and Eric
-http://pfsv.io:80/334979935/96795/44142
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Venture Bros.
-http://pfsv.io:80/334979935/96795/44141
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Williams Stream
-http://pfsv.io:80/334979935/96795/44140
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ARB] Abu Dhabi Sports 2 UFC
 http://pfsv.io:80/334979935/96795/606
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ARM] H1
@@ -2291,8 +2091,6 @@ http://pfsv.io:80/334979935/96795/44163
 http://pfsv.io:80/334979935/96795/44164
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Club Hot
 http://pfsv.io:80/334979935/96795/44185
-#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Dorcel TV
-http://pfsv.io:80/334979935/96795/44165
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Jasmin TV SD
 http://pfsv.io:80/334979935/96795/44191
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Lovenight SD
@@ -2321,8 +2119,6 @@ http://pfsv.io:80/334979935/96795/44186
 http://pfsv.io:80/334979935/96795/44169
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Redlight
 http://pfsv.io:80/334979935/96795/44170
-#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Rusnoch
-http://pfsv.io:80/334979935/96795/44171
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] SCT
 http://pfsv.io:80/334979935/96795/44172
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sexy Hot FHD [H265]
@@ -2353,3 +2149,265 @@ http://pfsv.io:80/334979935/96795/44217
 http://pfsv.io:80/334979935/96795/44220
 #EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Visit-X TV
 http://pfsv.io:80/334979935/96795/44263
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Shoptime SD
+http://pfsv.io:80/334979935/96795/53262
+#EXTINF:-1 tvg-logo="http://p6.vc/iTX" group-title="Canais | Jogos & Eventos",MLB Network Live HD
+http://pfsv.io:80/334979935/96795/53287
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Hope Channel
+http://pfsv.io:80/334979935/96795/53332
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FaceBook Watch 1 HD
+http://pfsv.io:80/334979935/96795/55188
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FaceBook Watch 2 HD
+http://pfsv.io:80/334979935/96795/55189
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Carioca 2021 HD
+http://pfsv.io:80/334979935/96795/55190
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[SWI]TeleBarn HD
+http://pfsv.io:80/334979935/96795/55191
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[RSS] RT Documentary Channel HD
+http://pfsv.io:80/334979935/96795/55192
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV CI SD
+http://pfsv.io:80/334979935/96795/55343
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Galicia TV HD
+http://pfsv.io:80/334979935/96795/55344
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 06
+http://pfsv.io:80/334979935/96795/55346
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Love Natural HD
+http://pfsv.io:80/334979935/96795/56134
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",MyCujoo TV
+http://pfsv.io:80/334979935/96795/56135
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title=" Canais | Globo",Globo TV Anhanguera Rio Verde HD
+http://pfsv.io:80/334979935/96795/56139
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 1 FHD
+http://pfsv.io:80/334979935/96795/58162
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 2 FHD
+http://pfsv.io:80/334979935/96795/58163
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 3 FHD
+http://pfsv.io:80/334979935/96795/58164
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 4 FHD
+http://pfsv.io:80/334979935/96795/58165
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 5 FHD
+http://pfsv.io:80/334979935/96795/58166
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 6 FHD
+http://pfsv.io:80/334979935/96795/58167
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] E! FHD
+http://pfsv.io:80/334979935/96795/58168
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] E! HD
+http://pfsv.io:80/334979935/96795/58169
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] EUROSPORT 1 FHD
+http://pfsv.io:80/334979935/96795/58170
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] EUROSPORT 2 FHD
+http://pfsv.io:80/334979935/96795/58171
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] FIGHT BOX HD
+http://pfsv.io:80/334979935/96795/58173
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] FIGHT Network HD
+http://pfsv.io:80/334979935/96795/58174
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] FOX SPORTS
+http://pfsv.io:80/334979935/96795/58175
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] ELEVEN SPORTS HD
+http://pfsv.io:80/334979935/96795/58176
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] CBS Sports HD
+http://pfsv.io:80/334979935/96795/58178
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] B1G Network
+http://pfsv.io:80/334979935/96795/58180
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[US] Sport NBA HD
+http://pfsv.io:80/334979935/96795/58181
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[US] SPORT TV NBA HD
+http://pfsv.io:80/334979935/96795/58182
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 1 FHD
+http://pfsv.io:80/334979935/96795/58183
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 2 FHD
+http://pfsv.io:80/334979935/96795/58184
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 1 FHD
+http://pfsv.io:80/334979935/96795/58185
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 2 HD
+http://pfsv.io:80/334979935/96795/58186
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL] Sport 1
+http://pfsv.io:80/334979935/96795/58187
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport 1 Extra
+http://pfsv.io:80/334979935/96795/58188
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport 1 Extra 1
+http://pfsv.io:80/334979935/96795/58189
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport 1 Golf HD
+http://pfsv.io:80/334979935/96795/58190
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport 1 Racing
+http://pfsv.io:80/334979935/96795/58191
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport 1 Voetbal HD
+http://pfsv.io:80/334979935/96795/58192
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport 1 Votbal HD
+http://pfsv.io:80/334979935/96795/58193
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport Channel
+http://pfsv.io:80/334979935/96795/58194
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport Klub 7
+http://pfsv.io:80/334979935/96795/58195
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport Select HD
+http://pfsv.io:80/334979935/96795/58196
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport Voetbal
+http://pfsv.io:80/334979935/96795/58197
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport Voetbal 1
+http://pfsv.io:80/334979935/96795/58198
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport1 Extra 2
+http://pfsv.io:80/334979935/96795/58199
+#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[NL]Sport1 Select HD
+http://pfsv.io:80/334979935/96795/58200
+#EXTINF:-1 tvg-logo="MUDAR" group-title="Canais | Notícias",[PT] euronews HD
+http://pfsv.io:80/334979935/96795/58201
+#EXTINF:-1 tvg-logo="MUDAR" group-title="Canais | Notícias",[PT] Fox News
+http://pfsv.io:80/334979935/96795/58202
+#EXTINF:-1 tvg-logo="MUDAR" group-title="Canais | Notícias",[PT] CNN
+http://pfsv.io:80/334979935/96795/58203
+#EXTINF:-1 tvg-logo="MUDAR" group-title="Canais | Notícias",[CA] CNBC HD
+http://pfsv.io:80/334979935/96795/58204
+#EXTINF:-1 tvg-logo="MUDAR" group-title="Canais | Notícias",[US] CNN FHD
+http://pfsv.io:80/334979935/96795/58205
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[ES] CNN Espanol
+http://pfsv.io:80/334979935/96795/58206
+#EXTINF:-1 tvg-logo="MUDAR" group-title="Canais | Notícias",[CA] FOX News HD
+http://pfsv.io:80/334979935/96795/58208
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[IT] Rai Sport 1 FHD
+http://pfsv.io:80/334979935/96795/58209
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] AT&T SportNet HD
+http://pfsv.io:80/334979935/96795/58212
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[US] BBC World News HD
+http://pfsv.io:80/334979935/96795/58213
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Caçadores de Mitos
+http://pfsv.io:80/334979935/96795/58237
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Você Sabia?
+http://pfsv.io:80/334979935/96795/58242
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Loading FHD
+http://pfsv.io:80/334979935/96795/58245
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Loading SD
+http://pfsv.io:80/334979935/96795/58246
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Loading HD
+http://pfsv.io:80/334979935/96795/58247
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] NBA HD
+http://pfsv.io:80/334979935/96795/58264
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Policia 24 horas
+http://pfsv.io:80/334979935/96795/58267
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Batman e Robin Classico
+http://pfsv.io:80/334979935/96795/58271
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Sócio
+http://pfsv.io:80/334979935/96795/58276
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jiban
+http://pfsv.io:80/334979935/96795/58283
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Largados e Pelados
+http://pfsv.io:80/334979935/96795/58287
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Gigantes da Industria
+http://pfsv.io:80/334979935/96795/58292
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Irmãos a Obra
+http://pfsv.io:80/334979935/96795/58303
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[ARG]  TNT Sports HD
+http://pfsv.io:80/334979935/96795/59964
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/sbt.png" group-title="Canais | Abertos",SBT SP SD
+http://pfsv.io:80/334979935/96795/59973
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/sbt.png" group-title="Canais | Abertos",SBT ES HD
+http://pfsv.io:80/334979935/96795/59974
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[US] BBC WORLD FHD
+http://pfsv.io:80/334979935/96795/59977
+#EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM FHD
+http://pfsv.io:80/334979935/96795/59978
+#EXTINF:-1 tvg-logo="" group-title="Power Couple",Power Couple 02
+http://pfsv.io:80/334979935/96795/60686
+#EXTINF:-1 tvg-logo="" group-title="Power Couple",Power Couple 01
+http://pfsv.io:80/334979935/96795/60687
+#EXTINF:-1 tvg-logo="" group-title="Power Couple",Power Couple 03
+http://pfsv.io:80/334979935/96795/60685
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Carioca 2021 (Extra) FHD  
+http://pfsv.io:80/334979935/96795/62795
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 03 2021
+http://pfsv.io:80/334979935/96795/62796
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 01 2021
+http://pfsv.io:80/334979935/96795/62798
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 02 2021
+http://pfsv.io:80/334979935/96795/62799
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] WWE Network FHD
+http://pfsv.io:80/334979935/96795/63122
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports HD
+http://pfsv.io:80/334979935/96795/63123
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports SD
+http://pfsv.io:80/334979935/96795/63124
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports 01 HD
+http://pfsv.io:80/334979935/96795/63125
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports 02
+http://pfsv.io:80/334979935/96795/63126
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports 03
+http://pfsv.io:80/334979935/96795/63127
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports 04
+http://pfsv.io:80/334979935/96795/63128
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports 05
+http://pfsv.io:80/334979935/96795/63129
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Estadio TNT Sports 06
+http://pfsv.io:80/334979935/96795/63130
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 1 [ALTER]
+http://pfsv.io:80/334979935/96795/63403
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 2 [ALTER]
+http://pfsv.io:80/334979935/96795/63404
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 4
+http://pfsv.io:80/334979935/96795/63405
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[PT] SporTV HD
+http://pfsv.io:80/334979935/96795/65153
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[PT] SporTV 2 HD
+http://pfsv.io:80/334979935/96795/65154
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[PT] SporTV 3 HD
+http://pfsv.io:80/334979935/96795/65155
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[PT] SporTV 4 HD
+http://pfsv.io:80/334979935/96795/65156
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",[PT] SporTV 5 HD
+http://pfsv.io:80/334979935/96795/65240
+#EXTINF:-1 tvg-logo="http://z4.vc/wGT" group-title="Canais | 4K",Universal Channel [4K]
+http://pfsv.io:80/334979935/96795/65247
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 1 HD [A]
+http://pfsv.io:80/334979935/96795/65561
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 2 HD [A]
+http://pfsv.io:80/334979935/96795/65562
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 3 HD [A]
+http://pfsv.io:80/334979935/96795/65563
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 HD [A]
+http://pfsv.io:80/334979935/96795/65564
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 1 FHD [B]
+http://pfsv.io:80/334979935/96795/65565
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol  TV 2 FHD [B]
+http://pfsv.io:80/334979935/96795/65566
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 3 FHD [B]
+http://pfsv.io:80/334979935/96795/65567
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 FHD [B]
+http://pfsv.io:80/334979935/96795/65568
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 1 HD [B]
+http://pfsv.io:80/334979935/96795/65569
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 2 HD [B]
+http://pfsv.io:80/334979935/96795/65570
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 3 HD [B]
+http://pfsv.io:80/334979935/96795/65571
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 HD [B]
+http://pfsv.io:80/334979935/96795/65572
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 1 FHD [C]
+http://pfsv.io:80/334979935/96795/65573
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 2 FHD [C]
+http://pfsv.io:80/334979935/96795/65574
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 3 FHD [C]
+http://pfsv.io:80/334979935/96795/65575
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 FHD [C]
+http://pfsv.io:80/334979935/96795/65576
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 1 HD [C]
+http://pfsv.io:80/334979935/96795/65577
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 2 HD [C]
+http://pfsv.io:80/334979935/96795/65578
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 3 HD [C]
+http://pfsv.io:80/334979935/96795/65579
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 HD [C]
+http://pfsv.io:80/334979935/96795/65580
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 1 SD [C]
+http://pfsv.io:80/334979935/96795/65581
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 2 SD [C]
+http://pfsv.io:80/334979935/96795/65582
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 3 SD [C]
+http://pfsv.io:80/334979935/96795/65583
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 SD [C]
+http://pfsv.io:80/334979935/96795/65584
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 01 HD [D]
+http://pfsv.io:80/334979935/96795/65585
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 02 HD [D]
+http://pfsv.io:80/334979935/96795/65586
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 03 HD [D]
+http://pfsv.io:80/334979935/96795/65587
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Conmebol",Conmebol TV 4 HD [D]
+http://pfsv.io:80/334979935/96795/65588
